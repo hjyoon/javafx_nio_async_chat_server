@@ -6,6 +6,9 @@ Chat GUI Application using javafx
 - OpenJDK 11.0.2
 - gradle 6.7
 
+## Config
+default port number is 5001
+
 ## Build
 `gradlew build`
 
