@@ -11,3 +11,6 @@ Chat GUI Application using javafx
 
 ## Run
 `gradlew run`
+
+## Screenshots
+![nio_server](https://user-images.githubusercontent.com/16138767/99405400-1278ae80-2930-11eb-949b-4a6bef741c38.jpg)
